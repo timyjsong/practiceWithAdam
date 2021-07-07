@@ -4,5 +4,5 @@
 + learning basics of linux & pyCharm
 + gitHub
 + ssh keys
-
++ gitting from editor
 
